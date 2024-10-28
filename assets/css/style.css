@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200..700&display=swap');
+
 /*wildcard selector*/
 
 * {
@@ -6,11 +8,14 @@
     box-sizing: border-box;
 }
 
+
+
 body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #3a3a3a
+    color: #3a3a3a;
+    font-family: 'lato', sans-serif;
 }
 
 header {
