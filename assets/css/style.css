@@ -126,6 +126,19 @@ main {
     color: #ffffff;
 }
 
+/*gallery page */
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+    
+
+}
+
+#photos{
+    line-height: 0;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
