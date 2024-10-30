@@ -149,6 +149,7 @@ main {
 
 
 }
+
 /*hero section*/
 
 #hero {
@@ -180,11 +181,11 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
-    
+
 
 }
 
-#photos{
+#photos {
     line-height: 0;
 }
 
@@ -271,7 +272,7 @@ main {
         column-count: 2;
         column-gap: 0;
     }
-    
+
 }
 
 /* media query for tablets and larger 768 and above */
@@ -357,7 +358,7 @@ main {
     }
 
     .text-input {
-        border-color: #f16c6b;
+        border-color: #fafafa;
     }
 }
 
